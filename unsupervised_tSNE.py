@@ -26,3 +26,5 @@ plt.xlabel('t-SNE 1')
 plt.ylabel('t-SNE 2')
 plt.legend(title='Digit', bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.show()
+
+print("Testing GitHub")
